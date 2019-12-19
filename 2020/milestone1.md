@@ -18,6 +18,8 @@ The goal of the first milestone is continue with the approach taken before the p
 - [ ] Identify rpc calls and create pull request for: https://github.com/zcash/zcash/issues/2375
 
 - [ ] Design a solution and implementation for https://github.com/zcash/zcash/issues/3893
+
+- [ ] Fix test case https://github.com/zcash/zcash/issues/2986 
  
 ### Week 2
 
