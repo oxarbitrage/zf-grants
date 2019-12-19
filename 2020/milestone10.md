@@ -1,8 +1,8 @@
-# Milestone 1
+# Milestone 10
 
 ```
-From:           2020-01-01
-To:             2020-01-31
+From:           2020-10-01
+To:             2020-10-31
 ```
 
 ## Planned work
