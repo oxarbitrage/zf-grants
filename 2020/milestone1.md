@@ -20,6 +20,16 @@ The goal of the first milestone is continue with the approach taken before the p
 - [ ] Design a solution and implementation for https://github.com/zcash/zcash/issues/3893
 
 - [ ] Fix test case https://github.com/zcash/zcash/issues/2986 
+
+- [ ] Discuss the possibility to add test cases for https://github.com/zcash/zcash/issues/4224 . Make PR for https://github.com/zcash/zcash/compare/master...oxarbitrage:issue4224
+
+- [ ] https://github.com/zcash/zcash/issues/3996 . Group together code and discussions of different implementations, create PR with it.
+
+- [x] Fix conflits of https://github.com/zcash/zcash/pull/4220
+
+- [x] Fix conflicts of https://github.com/zcash/zcash/pull/4269
+
+- [x] Review possible implementation of https://github.com/ResistancePlatform/resistance-core/pull/73 for https://github.com/zcash/zcash/issues/4274 
  
 ### Week 2
 
