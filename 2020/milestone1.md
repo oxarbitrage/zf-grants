@@ -19,8 +19,6 @@ The goal of the first milestone is continue with the approach taken before the p
 
 - [ ] Design a solution and implementation for https://github.com/zcash/zcash/issues/3893
 
-- [ ] Fix test case https://github.com/zcash/zcash/issues/2986 
-
 - [ ] Discuss the possibility to add test cases for https://github.com/zcash/zcash/issues/4224 . Make PR for https://github.com/zcash/zcash/compare/master...oxarbitrage:issue4224
 
 - [x] Fix conflits of https://github.com/zcash/zcash/pull/4220
@@ -31,13 +29,17 @@ The goal of the first milestone is continue with the approach taken before the p
  
 ### Week 2
 
+- [ ] Fix test case https://github.com/zcash/zcash/issues/2986 
+
 - [ ] https://github.com/zcash/zcash/issues/3996 . Group together code and discussions of different implementations, create PR with it.
 
 - [ ] Fix bug https://github.com/zcash/zcash/issues/4138
 
 ### Week 3
 
-Part of Sprout deprecation roadmap: https://github.com/zcash/zcash/issues/3788:
+- Isolate bitcoin https://github.com/bitcoin/bitcoin/pull/6057 from https://github.com/zcash/zcash/pull/2225 to fix https://github.com/zcash/zcash/issues/4080 . Create PR that should be easier to review and faster to merge.
+
+Part of Sprout deprecation roadmap: https://github.com/zcash/zcash/pull/4146:
 
 - [ ] Create PR: https://github.com/zcash/zcash/issues/3752
 
@@ -48,3 +50,5 @@ Part of Sprout deprecation roadmap: https://github.com/zcash/zcash/issues/3788:
 - [ ] Add field to getinfo rpc call: https://github.com/zcash/zcash/issues/2671
 
 - [ ] Create `z_createtransaction` method: https://github.com/zcash/zcash/issues/2666
+
+- [ ] Review https://github.com/zcash/zcash/pull/4146
