@@ -15,6 +15,8 @@ Major milestone focus, goals, comments.
 
 - [ ] Create a patch and apply to all related methods. https://github.com/zcash/zcash/issues/3118
 
+- [ ] Add syntaxt to `getblock` call parameter
+
 ### Week 2
 
 - [ ] Port option to change log filename and location from bitcoin, solving issue https://github.com/zcash/zcash/issues/3740
