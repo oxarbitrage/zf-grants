@@ -25,9 +25,13 @@ Major milestone focus, goals, comments.
 
 ### Week 3
 
+Code duplication refactors:
+
 - [ ] Research and implement solution to reduce duplication: https://github.com/zcash/zcash/issues/3344
 
 - [ ] Remove code duplication if possible: https://github.com/zcash/zcash/issues/2961
+
+- [ ] Remove code duplication https://github.com/zcash/zcash/issues/3121
 
 ### Week 4
 
