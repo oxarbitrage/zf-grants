@@ -11,7 +11,7 @@ Major milestone focus, goals, comments.
 
 ### Week 1
 
-- 
+- [ ] Research and implement https://github.com/zcash/zcash/issues/3083
 
 ### Week 2
 
