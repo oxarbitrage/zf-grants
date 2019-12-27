@@ -32,4 +32,3 @@ Major milestone focus, goals, comments.
 ### Week 4
 
 - [ ] PR for zcashd and create first PR to librustzcash: https://github.com/zcash/zcash/issues/3446 
-https://github.com/zcash/zcash/issues/2961
