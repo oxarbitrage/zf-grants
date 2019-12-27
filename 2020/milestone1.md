@@ -23,8 +23,6 @@ The goal of the first milestone is continue with the approach taken before the p
 
 - [ ] Discuss the possibility to add test cases for https://github.com/zcash/zcash/issues/4224 . Make PR for https://github.com/zcash/zcash/compare/master...oxarbitrage:issue4224
 
-- [ ] https://github.com/zcash/zcash/issues/3996 . Group together code and discussions of different implementations, create PR with it.
-
 - [x] Fix conflits of https://github.com/zcash/zcash/pull/4220
 
 - [x] Fix conflicts of https://github.com/zcash/zcash/pull/4269
@@ -33,7 +31,9 @@ The goal of the first milestone is continue with the approach taken before the p
  
 ### Week 2
 
-- 
+- [ ] https://github.com/zcash/zcash/issues/3996 . Group together code and discussions of different implementations, create PR with it.
+
+- [ ] Fix bug https://github.com/zcash/zcash/issues/4138
 
 ### Week 3
 
