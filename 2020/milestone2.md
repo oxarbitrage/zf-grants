@@ -17,12 +17,19 @@ Major milestone focus, goals, comments.
 
 ### Week 2
 
-- 
+- [ ] Port option to change log filename and location from bitcoin, solving issue https://github.com/zcash/zcash/issues/3740
+
+- [ ] Remove dead code https://github.com/zcash/zcash/issues/2447
+
+- [ ] Review and update https://github.com/zcash/zcash/pull/3749 to fix https://github.com/zcash/zcash/issues/3687
 
 ### Week 3
 
-- 
+- [ ] Research and implement solution to reduce duplication: https://github.com/zcash/zcash/issues/3344
+
+- [ ] Remove code duplication if possible: https://github.com/zcash/zcash/issues/2961
 
 ### Week 4
 
-- 
+- [ ] PR for zcashd and create first PR to librustzcash: https://github.com/zcash/zcash/issues/3446 
+https://github.com/zcash/zcash/issues/2961
