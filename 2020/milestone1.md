@@ -37,8 +37,14 @@ The goal of the first milestone is continue with the approach taken before the p
 
 ### Week 3
 
-- 
+Part of Sprout deprecation roadmap: https://github.com/zcash/zcash/issues/3788:
+
+- [ ] Create PR: https://github.com/zcash/zcash/issues/3752
+
+- [ ] Create PR:  https://github.com/zcash/zcash/issues/3773
 
 ### Week 4
 
-- 
+- [ ] Add field to getinfo rpc call: https://github.com/zcash/zcash/issues/2671
+
+- [ ] Create `z_createtransaction` method: https://github.com/zcash/zcash/issues/2666
