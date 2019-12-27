@@ -7,23 +7,25 @@ To:             2020-02-29
 
 ## Planned work
 
-Major milestone focus, goals, comments.
+Code cleanup, small bug fixes, bitcoin updates.
 
 ### Week 1
+
+- [ ] Fix test case https://github.com/zcash/zcash/issues/2986 
 
 - [ ] Research and implement https://github.com/zcash/zcash/issues/3083
 
 - [ ] Create a patch and apply to all related methods. https://github.com/zcash/zcash/issues/3118
 
-- [ ] Add syntaxt to `getblock` call parameter
+- [ ] Fix bug https://github.com/zcash/zcash/issues/4138
 
 ### Week 2
+
+- [ ] https://github.com/zcash/zcash/issues/3996 . Group together code and discussions of different implementations, create PR with it.
 
 - [ ] Port option to change log filename and location from bitcoin, solving issue https://github.com/zcash/zcash/issues/3740
 
 - [ ] Remove dead code https://github.com/zcash/zcash/issues/2447
-
-- [ ] Review and update https://github.com/zcash/zcash/pull/3749 to fix https://github.com/zcash/zcash/issues/3687
 
 ### Week 3
 
@@ -36,6 +38,8 @@ Code duplication refactors:
 - [ ] Remove code duplication https://github.com/zcash/zcash/issues/3121
 
 ### Week 4
+
+- [ ] Isolate bitcoin https://github.com/bitcoin/bitcoin/pull/6057 from https://github.com/zcash/zcash/pull/2225 to fix https://github.com/zcash/zcash/issues/4080 . Create PR that should be easier to review and faster to merge.
 
 - [ ] PR for zcashd and create first PR to librustzcash: https://github.com/zcash/zcash/issues/3446 
 
