@@ -13,6 +13,8 @@ Major milestone focus, goals, comments.
 
 - [ ] Research and implement https://github.com/zcash/zcash/issues/3083
 
+- [ ] Create a patch and apply to all related methods. https://github.com/zcash/zcash/issues/3118
+
 ### Week 2
 
 - 
