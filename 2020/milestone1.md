@@ -37,7 +37,7 @@ The goal of the first milestone is continue with the approach taken before the p
 
 ### Week 3
 
-- Isolate bitcoin https://github.com/bitcoin/bitcoin/pull/6057 from https://github.com/zcash/zcash/pull/2225 to fix https://github.com/zcash/zcash/issues/4080 . Create PR that should be easier to review and faster to merge.
+- [ ] Isolate bitcoin https://github.com/bitcoin/bitcoin/pull/6057 from https://github.com/zcash/zcash/pull/2225 to fix https://github.com/zcash/zcash/issues/4080 . Create PR that should be easier to review and faster to merge.
 
 Part of Sprout deprecation roadmap: https://github.com/zcash/zcash/pull/4146:
 
