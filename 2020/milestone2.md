@@ -36,3 +36,5 @@ Code duplication refactors:
 ### Week 4
 
 - [ ] PR for zcashd and create first PR to librustzcash: https://github.com/zcash/zcash/issues/3446 
+
+- [ ] Review all rpc calls and create pr if needed: https://github.com/zcash/zcash/issues/4085
