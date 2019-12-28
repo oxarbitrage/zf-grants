@@ -17,8 +17,6 @@ Code cleanup, small bug fixes, bitcoin updates.
 
 - [ ] Create a patch and apply to all related methods. https://github.com/zcash/zcash/issues/3118
 
-- [ ] Fix bug https://github.com/zcash/zcash/issues/4138
-
 ### Week 2
 
 - [ ] https://github.com/zcash/zcash/issues/3996 . Group together code and discussions of different implementations, create PR with it.
