@@ -36,7 +36,7 @@ Debt from previous work:
 
 ### Week 3
 
-Part of Sprout deprecation roadmap: https://github.com/zcash/zcash/pull/4146:
+Part of Sprout deprecation roadmap: https://github.com/zcash/zcash/issues/3788:
 
 - [ ] Create PR: https://github.com/zcash/zcash/issues/3752
 
