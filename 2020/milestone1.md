@@ -19,6 +19,8 @@ The goal of the first milestone is continue with the approach taken before the p
 
 - [x] Review possible implementation of https://github.com/ResistancePlatform/resistance-core/pull/73 for https://github.com/zcash/zcash/issues/4274 
 
+- [x] Review Copyright update to 2020: https://github.com/zcash/zcash/pull/4277
+
 Debt from previous work:
 
 - [x] Fix conflits of https://github.com/zcash/zcash/pull/4220
