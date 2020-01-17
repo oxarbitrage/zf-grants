@@ -38,7 +38,7 @@ Debt from previous work:
 
 ### Week 3
 
-- [ ] Fix error message https://github.com/zcash/zcash/issues/3589
+- [x] Fix error message https://github.com/zcash/zcash/issues/3589
 
 Part of Sprout deprecation roadmap: https://github.com/zcash/zcash/issues/3788:
 
@@ -52,5 +52,5 @@ Part of Sprout deprecation roadmap: https://github.com/zcash/zcash/issues/3788:
 
 - [ ] Review https://github.com/zcash/zcash/pull/4146
 
-- [ ] Review and update https://github.com/zcash/zcash/pull/3749 to fix https://github.com/zcash/zcash/issues/3687
+- [x] Review and update https://github.com/zcash/zcash/pull/3749 to fix https://github.com/zcash/zcash/issues/3687
 
