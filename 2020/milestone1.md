@@ -35,6 +35,9 @@ Debt from previous work:
 
 - [ ] Create `z_createtransaction` method: https://github.com/zcash/zcash/issues/2666
 
+Debt from previous work:
+
+- [x] Change convention of negative indexes for https://github.com/zcash/zcash/pull/4280
 
 ### Week 3
 
