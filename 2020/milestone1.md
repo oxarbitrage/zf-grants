@@ -29,7 +29,7 @@ Debt from previous work:
  
 ### Week 2
 
-- [ ] Discuss the possibility to add test cases for https://github.com/zcash/zcash/issues/4224 . Make PR for https://github.com/zcash/zcash/compare/master...oxarbitrage:issue4224
+- [x] Discuss the possibility to add test cases for https://github.com/zcash/zcash/issues/4224 . Make PR for https://github.com/zcash/zcash/compare/master...oxarbitrage:issue4224
 
 - [x] Add syntaxt to `getblock` call parameter: https://github.com/zcash/zcash/issues/2197 - Submitted PR: https://github.com/zcash/zcash/pull/4280
 
