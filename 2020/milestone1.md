@@ -57,3 +57,5 @@ Part of Sprout deprecation roadmap: https://github.com/zcash/zcash/issues/3788:
 
 - [x] Review and update https://github.com/zcash/zcash/pull/3749 to fix https://github.com/zcash/zcash/issues/3687
 
+- [ ] Review https://github.com/zcash/zcash/pull/4222
+
