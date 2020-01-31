@@ -60,3 +60,5 @@ Part of Sprout deprecation roadmap: https://github.com/zcash/zcash/issues/3788:
 - [x] Review https://github.com/zcash/zcash/pull/4222
 
 - [x] Remove travis file https://github.com/zcash/zcash/pull/4222#issuecomment-579717367
+
+- [x] Review https://github.com/zcash/zcash/pull/4313
