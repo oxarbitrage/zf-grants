@@ -33,7 +33,7 @@ Debt from previous work:
 
 - [x] Add syntaxt to `getblock` call parameter: https://github.com/zcash/zcash/issues/2197 - Submitted PR: https://github.com/zcash/zcash/pull/4280
 
-- [ ] Create `z_createtransaction` method: https://github.com/zcash/zcash/issues/2666
+- [ ] <strike>Create `z_createtransaction` method: https://github.com/zcash/zcash/issues/2666</strike>
 
 Debt from previous work:
 
@@ -45,9 +45,9 @@ Debt from previous work:
 
 Part of Sprout deprecation roadmap: https://github.com/zcash/zcash/issues/3788:
 
-- [ ] Create PR: https://github.com/zcash/zcash/issues/3752
+- [ ] <strike>Create PR: https://github.com/zcash/zcash/issues/3752</strike>
 
-- [ ] Create PR:  https://github.com/zcash/zcash/issues/3773
+- [ ] <strike>Create PR:  https://github.com/zcash/zcash/issues/3773</strike>
 
 ### Week 4
 
