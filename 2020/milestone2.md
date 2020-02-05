@@ -19,6 +19,8 @@ Code cleanup, small bug fixes, bitcoin updates.
 
 - [x] Review https://github.com/zcash/zcash/pull/4320
 
+- [x] Review https://github.com/zcash/zcash/pull/4324
+
 ### Week 2
 
 - [ ] https://github.com/zcash/zcash/issues/3996 . Group together code and discussions of different implementations, create PR with it.
