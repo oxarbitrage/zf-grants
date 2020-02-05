@@ -17,11 +17,13 @@ Code cleanup, small bug fixes, bitcoin updates.
 
 - [ ] Create a patch and apply to all related methods. https://github.com/zcash/zcash/issues/3118
 
+- [x] Review https://github.com/zcash/zcash/pull/4320
+
 ### Week 2
 
 - [ ] https://github.com/zcash/zcash/issues/3996 . Group together code and discussions of different implementations, create PR with it.
 
-- [ ] Port option to change log filename and location from bitcoin, solving issue https://github.com/zcash/zcash/issues/3740
+- [x] Port option to change log filename and location from bitcoin, solving issue https://github.com/zcash/zcash/issues/3740
 
 - [ ] Remove dead code https://github.com/zcash/zcash/issues/2447
 
