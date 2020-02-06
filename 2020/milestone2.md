@@ -29,11 +29,13 @@ Code cleanup, small bug fixes, bitcoin updates.
 
 - [ ] Remove dead code https://github.com/zcash/zcash/issues/2447
 
+- [ ] Implement -lightwalletd experimental feature https://github.com/zcash/zcash/issues/4326
+
 ### Week 3
 
 Code duplication refactors:
 
-- [ ] Research and implement solution to reduce duplication: https://github.com/zcash/zcash/issues/3344
+- [x] Research and implement solution to reduce duplication: https://github.com/zcash/zcash/issues/3344
 
 - [ ] Remove code duplication if possible: https://github.com/zcash/zcash/issues/2961
 
