@@ -13,7 +13,7 @@ Code cleanup, small bug fixes, bitcoin updates.
 
 - [ ] Fix test case https://github.com/zcash/zcash/issues/2986 
 
-- [ ] Research and implement https://github.com/zcash/zcash/issues/3083
+- [x] Research and implement https://github.com/zcash/zcash/issues/3083
 
 - [x] Create a patch and apply to all related methods. https://github.com/zcash/zcash/issues/3118
 
