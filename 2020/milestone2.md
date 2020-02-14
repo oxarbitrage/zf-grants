@@ -11,7 +11,7 @@ Code cleanup, small bug fixes, bitcoin updates.
 
 ### Week 1
 
-- [ ] Fix test case https://github.com/zcash/zcash/issues/2986 
+- [x] Fix test case https://github.com/zcash/zcash/issues/2986 
 
 - [x] Research and implement https://github.com/zcash/zcash/issues/3083
 
@@ -23,7 +23,7 @@ Code cleanup, small bug fixes, bitcoin updates.
 
 ### Week 2
 
-- [ ] https://github.com/zcash/zcash/issues/3996 . Group together code and discussions of different implementations, create PR with it.
+- [x] https://github.com/zcash/zcash/issues/3996 . Group together code and discussions of different implementations, create PR with it.
 
 - [x] Port option to change log filename and location from bitcoin, solving issue https://github.com/zcash/zcash/issues/3740
 
