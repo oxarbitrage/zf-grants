@@ -37,9 +37,13 @@ Code duplication refactors:
 
 - [x] Research and implement solution to reduce duplication: https://github.com/zcash/zcash/issues/3344
 
-- [ ] Remove code duplication if possible: https://github.com/zcash/zcash/issues/2961
+- [ ] <strike>Remove code duplication if possible: https://github.com/zcash/zcash/issues/2961</strike>
 
 - [ ] Remove code duplication https://github.com/zcash/zcash/issues/3121
+
+- [x] Remove debug noise from gtests: https://github.com/zcash/zcash/issues/4286
+
+- [x] Add null check to std:feof: https://github.com/zcash/zcash/issues/2880
 
 ### Week 4
 
