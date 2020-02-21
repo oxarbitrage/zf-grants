@@ -22,7 +22,6 @@ Related to more verbose logging of wallet state:
 ### Week 2
 
 - [ ] Improve performance of import key https://github.com/zcash/zcash/issues/3965
-- [ ] Improve cryptic error https://github.com/zcash/zcash/issues/4260
 
 ### Week 3
 
