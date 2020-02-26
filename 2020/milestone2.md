@@ -57,6 +57,6 @@ Code duplication refactors:
 
 - [x] Isolate bitcoin https://github.com/bitcoin/bitcoin/pull/6057 from https://github.com/zcash/zcash/pull/2225 to fix https://github.com/zcash/zcash/issues/4080 . Create PR that should be easier to review and faster to merge.
 
-- [ ] PR for zcashd and create first PR to librustzcash: https://github.com/zcash/zcash/issues/3446 
+- [x] PR for zcashd and create first PR to librustzcash: https://github.com/zcash/zcash/issues/3446 
 
 - [ ] Review all rpc calls and create pr if needed: https://github.com/zcash/zcash/issues/4085
