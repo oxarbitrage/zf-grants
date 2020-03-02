@@ -27,9 +27,9 @@ Code cleanup, small bug fixes, bitcoin updates.
 
 - [x] Port option to change log filename and location from bitcoin, solving issue https://github.com/zcash/zcash/issues/3740
 
-- [ ] Remove dead code https://github.com/zcash/zcash/issues/2447
+- [ ] <strike>Remove dead code https://github.com/zcash/zcash/issues/2447</strike>
 
-- [ ] Implement -lightwalletd experimental feature https://github.com/zcash/zcash/issues/4326
+- [ ] <strike>Implement -lightwalletd experimental feature https://github.com/zcash/zcash/issues/4326</strike> Moved to Milestone 3
 
 ### Week 3
 
@@ -39,7 +39,7 @@ Code duplication refactors:
 
 - [ ] <strike>Remove code duplication if possible: https://github.com/zcash/zcash/issues/2961</strike>
 
-- [ ] Remove code duplication https://github.com/zcash/zcash/issues/3121
+- [ ] <strike>Remove code duplication https://github.com/zcash/zcash/issues/3121</strike>
 
 - [x] Remove debug noise from gtests: https://github.com/zcash/zcash/issues/4286
 
@@ -59,4 +59,4 @@ Code duplication refactors:
 
 - [x] PR for zcashd and create first PR to librustzcash: https://github.com/zcash/zcash/issues/3446 
 
-- [ ] Review all rpc calls and create pr if needed: https://github.com/zcash/zcash/issues/4085
+- [x] Review all rpc calls and create pr if needed: https://github.com/zcash/zcash/issues/4085
