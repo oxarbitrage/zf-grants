@@ -19,6 +19,8 @@ Related to more verbose logging of wallet state:
 
 - [ ] Related: https://github.com/zcash/zcash/issues/3114
 
+- [ ] Implement -lightwalletd experimental feature https://github.com/zcash/zcash/issues/4326 (moved from milestone 2) 
+
 ### Week 2
 
 - [ ] Improve performance of import key https://github.com/zcash/zcash/issues/3965
