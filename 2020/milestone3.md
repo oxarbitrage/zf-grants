@@ -35,6 +35,4 @@ Related to more verbose logging of wallet state:
 
 ### Week 4
 
-- [ ] Research/Implement ZIP32 - https://github.com/zcash/zcash/issues/2673
-- [ ] Research https://github.com/zcash/zcash/issues/2275 , check if new rpc calls are needed, file issues for them.
 - [ ] Create a milestone 4.
