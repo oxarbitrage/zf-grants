@@ -23,11 +23,14 @@ Related to more verbose logging of wallet state:
 
 - [ ] Review https://github.com/zcash/zcash/issues/4260
 
-- [ ] Review https://github.com/zcash/zcash/pull/4374
+- [x] Review https://github.com/zcash/zcash/pull/4374
+
+- [x] Minor spacing issue: https://github.com/zcash/zcash/pull/4388
 
 ### Week 2
 
 - [ ] Improve performance of import key https://github.com/zcash/zcash/issues/3965
+- [ ] Add utility function to test framework
 
 ### Week 3
 
