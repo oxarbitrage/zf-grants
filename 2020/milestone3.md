@@ -30,7 +30,7 @@ Related to more verbose logging of wallet state:
 ### Week 2
 
 - [ ] Improve performance of import key https://github.com/zcash/zcash/issues/3965
-- [ ] Add utility function to test framework
+- [x] Add utility function to test framework
 
 ### Week 3
 
