@@ -21,7 +21,7 @@ Related to more verbose logging of wallet state:
 
 - [ ] Implement -lightwalletd experimental feature https://github.com/zcash/zcash/issues/4326 (moved from milestone 2) 
 
-- [ ] Review https://github.com/zcash/zcash/issues/4260
+- [ ] Review https://github.com/zcash/zcash/pull/4371 for issue https://github.com/zcash/zcash/issues/4260
 
 - [x] Review https://github.com/zcash/zcash/pull/4374
 
@@ -31,6 +31,7 @@ Related to more verbose logging of wallet state:
 
 - [ ] Improve performance of import key https://github.com/zcash/zcash/issues/3965
 - [x] Add utility function to test framework
+- [ ] Add pagination to `z_listreceivedbyaddress`: https://github.com/zcash/zcash/pull/4371 
 
 ### Week 3
 
