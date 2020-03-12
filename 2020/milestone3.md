@@ -31,7 +31,7 @@ Related to more verbose logging of wallet state:
 
 - [ ] Improve performance of import key https://github.com/zcash/zcash/issues/3965
 - [x] Add utility function to test framework
-- [ ] Add pagination to `z_listreceivedbyaddress`: https://github.com/zcash/zcash/pull/4371 
+- [x] Add pagination to `z_listreceivedbyaddress`: https://github.com/zcash/zcash/pull/4371 
 
 ### Week 3
 
