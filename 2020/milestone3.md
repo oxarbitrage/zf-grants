@@ -36,6 +36,7 @@ Related to more verbose logging of wallet state:
 ### Week 3
 
 - [ ] Implement `--await` argument to `zcash-cli` https://github.com/zcash/zcash/issues/1952
+- [x] Minor comment fix https://github.com/zcash/zcash/pull/4408
 
 ### Week 4
 
