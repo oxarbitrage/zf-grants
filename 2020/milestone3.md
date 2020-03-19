@@ -29,13 +29,13 @@ Related to more verbose logging of wallet state:
 
 ### Week 2
 
-- [ ] Improve performance of import key https://github.com/zcash/zcash/issues/3965
+- [x] Improve performance of import key https://github.com/zcash/zcash/issues/3965
 - [x] Add utility function to test framework
 - [x] Add pagination to `z_listreceivedbyaddress`: https://github.com/zcash/zcash/pull/4371 
 
 ### Week 3
 
-- [ ] Implement `--await` argument to `zcash-cli` https://github.com/zcash/zcash/issues/1952
+- [x] Implement `--await` argument to `zcash-cli` https://github.com/zcash/zcash/issues/1952
 - [x] Minor comment fix https://github.com/zcash/zcash/pull/4408
 
 ### Week 4
