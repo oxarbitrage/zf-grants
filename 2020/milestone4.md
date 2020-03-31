@@ -31,6 +31,8 @@ Goal of this milestone is to focus on issues that were opened in the recent time
 
 - [ ] Bug in genesis block - https://github.com/zcash/zcash/issues/4393
 
+- [ ] Gitian builds with docker: https://github.com/zcash/zcash-gitian/issues/89
+
 ### Week 4
 
 - [ ] Research and possible implement feature request in sendmany - https://github.com/zcash/zcash/issues/4412
