@@ -13,11 +13,11 @@ Milestone focus is on community requests, these are issues from organizations or
 
 Related to more verbose logging of wallet state:
 
-- [ ] More verbose logging: https://github.com/zcash/zcash/issues/4279
+- [x] More verbose logging: https://github.com/zcash/zcash/issues/4279
 
-- [ ] Research and fix bug https://github.com/zcash/zcash/issues/4138
+- [ ] <strike>Research and fix bug https://github.com/zcash/zcash/issues/4138</strike>
 
-- [ ] Related: https://github.com/zcash/zcash/issues/3114
+- [ ] <strike>Related: https://github.com/zcash/zcash/issues/3114</strike>
 
 - [x] Implement -lightwalletd experimental feature https://github.com/zcash/zcash/issues/4326 (moved from milestone 2) 
 
@@ -40,4 +40,4 @@ Related to more verbose logging of wallet state:
 
 ### Week 4
 
-- [ ] Create a milestone 4.
+- [x] Create a milestone 4.
