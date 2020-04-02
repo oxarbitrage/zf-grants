@@ -13,7 +13,7 @@ Goal of this milestone is to focus on issues that were opened in the recent time
 
 - [ ] Fix race conditions in gtest - https://github.com/zcash/zcash/issues/4389
 
-- [ ] Inconsistency in transparent balances - https://github.com/zcash/zcash/issues/3641
+- [ ] Finish the work in logging - https://github.com/zcash/zcash/issues/4279
 
 - [ ] Return sapling viewing key when imported - https://github.com/zcash/zcash/issues/4372
 
