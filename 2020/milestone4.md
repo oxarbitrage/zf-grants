@@ -11,11 +11,11 @@ Goal of this milestone is to focus on issues that were opened in the recent time
 
 ### Week 1
 
-- [ ] Fix race conditions in gtest - https://github.com/zcash/zcash/issues/4389
+- [x] Fix race conditions in gtest - https://github.com/zcash/zcash/issues/4389
 
 - [ ] Finish the work in logging - https://github.com/zcash/zcash/issues/4279
 
-- [ ] Return sapling viewing key when imported - https://github.com/zcash/zcash/issues/4372
+- [x] Return sapling viewing key when imported - https://github.com/zcash/zcash/issues/4372
 
 ### Week 2
 
