@@ -21,7 +21,9 @@ Goal of this milestone is to focus on issues that were opened in the recent time
 
 - [ ] Document fuzzing - https://github.com/zcash/zcash/issues/4415
 
-- [ ] https://github.com/zcash/zcash/issues/4375
+- [x] Fix advertised version - https://github.com/zcash/zcash/issues/4375
+
+- [ ] Research and implement solution: https://github.com/zcash/zcash/issues/4429 . Related to redoing https://github.com/zcash/zcash/pull/4399 
 
 - [ ] Documentation and command line parsing to afl scripts - https://github.com/zcash/zcash/issues/4315
 
