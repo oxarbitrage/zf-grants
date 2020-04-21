@@ -19,11 +19,13 @@ Goal of this milestone is to focus on issues that were opened in the recent time
 
 ### Week 2
 
-- [ ] Document fuzzing - https://github.com/zcash/zcash/issues/4415
+- [x] Document fuzzing - https://github.com/zcash/zcash/issues/4415
 
 - [x] Fix advertised version - https://github.com/zcash/zcash/issues/4375
 
-- [ ] Research and implement solution: https://github.com/zcash/zcash/issues/4429 . Related to redoing https://github.com/zcash/zcash/pull/4399 
+- [x] Research and implement solution: https://github.com/zcash/zcash/issues/4429 . Related to redoing https://github.com/zcash/zcash/pull/4399
+
+- [x] Add `z_getnotescount` API: https://github.com/zcash/zcash/issues/4463
 
 - [ ] Documentation and command line parsing to afl scripts - https://github.com/zcash/zcash/issues/4315
 
@@ -39,6 +41,6 @@ Goal of this milestone is to focus on issues that were opened in the recent time
 
 - [ ] Research and possible implement feature request in sendmany - https://github.com/zcash/zcash/issues/4412
 
-- [ ] Review https://github.com/zcash/zcash/pull/4411
+- [ ] <strike>Review https://github.com/zcash/zcash/pull/4411</strike> Already merged.
 
 - [ ] Create a milestone 5
