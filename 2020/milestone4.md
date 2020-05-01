@@ -13,7 +13,7 @@ Goal of this milestone is to focus on issues that were opened in the recent time
 
 - [x] Fix race conditions in gtest - https://github.com/zcash/zcash/issues/4389
 
-- [ ] Finish the work in logging - https://github.com/zcash/zcash/issues/4279
+- [x] Finish the work in logging - https://github.com/zcash/zcash/issues/4279
 
 - [x] Return sapling viewing key when imported - https://github.com/zcash/zcash/issues/4372
 
@@ -27,11 +27,11 @@ Goal of this milestone is to focus on issues that were opened in the recent time
 
 - [x] Add `z_getnotescount` API: https://github.com/zcash/zcash/issues/4463
 
-- [ ] Documentation and command line parsing to afl scripts - https://github.com/zcash/zcash/issues/4315
+- [x] Documentation and command line parsing to afl scripts - https://github.com/zcash/zcash/issues/4315
 
 ### Week 3
 
-- [ ] Add transparent pool info to call - https://github.com/zcash/zcash/issues/4294
+- [x] Add transparent pool info to call - https://github.com/zcash/zcash/issues/4294
 
 - [ ] Bug in genesis block - https://github.com/zcash/zcash/issues/4393
 
@@ -39,7 +39,9 @@ Goal of this milestone is to focus on issues that were opened in the recent time
 
 ### Week 4
 
-- [ ] Research and possible implement feature request in sendmany - https://github.com/zcash/zcash/issues/4412
+- [x] Research and possible implement feature request in sendmany - https://github.com/zcash/zcash/issues/4412
+
+- [x] Implement a fix for https://github.com/zcash/zcash/issues/4474
 
 - [ ] <strike>Review https://github.com/zcash/zcash/pull/4411</strike> Already merged.
 
