@@ -33,7 +33,7 @@ Goal of this milestone is to focus on issues that were opened in the recent time
 
 - [x] Add transparent pool info to call - https://github.com/zcash/zcash/issues/4294
 
-- [ ] Bug in genesis block - https://github.com/zcash/zcash/issues/4393
+- <strike>[ ] Bug in genesis block - https://github.com/zcash/zcash/issues/4393</strike> Requested more details, not provided yet.
 
 - [ ] Gitian builds with docker: https://github.com/zcash/zcash-gitian/issues/89
 
@@ -45,4 +45,4 @@ Goal of this milestone is to focus on issues that were opened in the recent time
 
 - [ ] <strike>Review https://github.com/zcash/zcash/pull/4411</strike> Already merged.
 
-- [ ] Create a milestone 5
+- [x] Create a milestone 5
