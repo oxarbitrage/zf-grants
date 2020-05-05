@@ -17,7 +17,7 @@ Write an informational document of the current format of wallet.dat files: https
 
 Separate wallet data in multiple(2 initially) database files: https://github.com/zcash/zcash/issues/1885 . Possible SQLite migration.
 
-Focusing on just this for the whole milestone will also allow to bump some submitted pull requests from previous milestones what are still open.
+Focusing on just this for the whole milestone will also allow to bump some submitted pull requests from previous milestones that are still open.
 
 ### Week 1 and 2
 
