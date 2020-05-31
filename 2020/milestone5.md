@@ -26,5 +26,5 @@ Focusing on just this for the whole period will allow to bump some submitted pul
 ### Week 3 and 4
 
 - [x] ZIP 402
-- [ ] Create a milestone 6
+- [x] Create a milestone 6
 
