@@ -11,12 +11,12 @@ Milestone will focus on some of the use cases and usability tags from the issue 
 
 ### Week 1
 
-- [ ] Support removing keys from the wallet - https://github.com/zcash/zcash/issues/4549
-- [ ] Improve `z_importviewingkey` - https://github.com/zcash/zcash/issues/4536
+- [x] Support removing keys from the wallet - https://github.com/zcash/zcash/issues/4549
+- [x] Improve `z_importviewingkey` - https://github.com/zcash/zcash/issues/4536
 
 ### Week 2
 
-- [ ] Support wallet.dat file to be outside datadir - https://github.com/zcash/zcash/issues/1873
+- [x] Support wallet.dat file to be outside datadir - https://github.com/zcash/zcash/issues/1873
 - [ ] Add BDB utilities for recovery - https://github.com/zcash/zcash/issues/4537
 
 ### Week 3
