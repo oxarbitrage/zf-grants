@@ -17,12 +17,12 @@ Milestone will focus on some of the use cases and usability tags from the issue 
 ### Week 2
 
 - [x] Support wallet.dat file to be outside datadir - https://github.com/zcash/zcash/issues/1873
-- [ ] Add BDB utilities for recovery - https://github.com/zcash/zcash/issues/4537
+- [x] Add BDB utilities for recovery - https://github.com/zcash/zcash/issues/4537
 
 ### Week 3
 
 - [ ] Research cause and implement solution for ctrl-c not working when reindexing - https://github.com/zcash/zcash/issues/4535
-- [ ] Port from upstream - https://github.com/zcash/zcash/issues/2783
+- [x] Add timestamp to warnings - https://github.com/zcash/zcash/issues/2783
 
 ### Week 4
 
