@@ -18,6 +18,7 @@ Milestone will focus on some of the use cases and usability tags from the issue 
 
 - [x] Support wallet.dat file to be outside datadir - https://github.com/zcash/zcash/issues/1873
 - [x] Add BDB utilities for recovery - https://github.com/zcash/zcash/issues/4537
+- [x] Solution rate format - https://github.com/zcash/zcash/issues/4571
 
 ### Week 3
 
@@ -28,3 +29,4 @@ Milestone will focus on some of the use cases and usability tags from the issue 
 
 - [ ] Duplicated zcash.conf options - https://github.com/zcash/zcash/issues/4495
 - [ ] `getrawtransaction` performance - https://github.com/zcash/zcash/issues/4475
+- [ ] Create milestone 7
