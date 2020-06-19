@@ -28,5 +28,5 @@ Milestone will focus on some of the use cases and usability tags from the issue 
 ### Week 4
 
 - [ ] Duplicated zcash.conf options - https://github.com/zcash/zcash/issues/4495
-- [ ] `getrawtransaction` performance - https://github.com/zcash/zcash/issues/4475
+- [x] `getrawtransaction` performance - https://github.com/zcash/zcash/issues/4475
 - [ ] Create milestone 7
