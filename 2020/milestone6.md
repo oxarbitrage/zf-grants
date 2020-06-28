@@ -22,11 +22,19 @@ Milestone will focus on some of the use cases and usability tags from the issue 
 
 ### Week 3
 
-- [ ] Research cause and implement solution for ctrl-c not working when reindexing - https://github.com/zcash/zcash/issues/4535
+- [ ] <strike>Research cause and implement solution for ctrl-c not working when reindexing - https://github.com/zcash/zcash/issues/4535</strike>
 - [x] Add timestamp to warnings - https://github.com/zcash/zcash/issues/2783
+
+**Zebra work:**
+
+- [x] Change config module name to generate - https://github.com/ZcashFoundation/zebra/issues/400#issuecomment-646212238 - https://github.com/ZcashFoundation/zebra/pull/505
+- [x] Usage help to generated config file - https://github.com/ZcashFoundation/zebra/issues/95 - https://github.com/ZcashFoundation/zebra/pull/527 
+- [x] Refactor block module to have submodules - https://github.com/ZcashFoundation/zebra/issues/220 - https://github.com/ZcashFoundation/zebra/pull/512
+
 
 ### Week 4
 
-- [ ] Duplicated zcash.conf options - https://github.com/zcash/zcash/issues/4495
+- [x] Duplicated zcash.conf options - https://github.com/zcash/zcash/issues/4495
 - [x] `getrawtransaction` performance - https://github.com/zcash/zcash/issues/4475
-- [ ] Create milestone 7
+- [x] Create milestone 7
+
