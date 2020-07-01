@@ -25,7 +25,7 @@ Milestone will focus on some of the use cases and usability tags from the issue 
 - [ ] <strike>Research cause and implement solution for ctrl-c not working when reindexing - https://github.com/zcash/zcash/issues/4535</strike>
 - [x] Add timestamp to warnings - https://github.com/zcash/zcash/issues/2783
 
-**Zebra work:**
+#### Zebra work:
 
 - [x] Change config module name to generate - https://github.com/ZcashFoundation/zebra/issues/400#issuecomment-646212238 - https://github.com/ZcashFoundation/zebra/pull/505
 - [x] Usage help to generated config file - https://github.com/ZcashFoundation/zebra/issues/95 - https://github.com/ZcashFoundation/zebra/pull/527 
