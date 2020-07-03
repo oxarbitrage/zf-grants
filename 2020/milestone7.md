@@ -12,5 +12,8 @@ For this milestone the focus will be shifted from zcash c++ into zebra client. T
 As this milestone is the first in the subject the estimations on specific issues can be too off thus the mechanics will be a bit different than before. Instead of adding the list of tasks that will be worked on in the entire month it will be added as they are taken.
 
 - [x] Create tests for block limits - https://github.com/ZcashFoundation/zebra/issues/482
-- [ ] Move large block contructions - https://github.com/ZcashFoundation/zebra/issues/575
+- [x] Move large block contructions - https://github.com/ZcashFoundation/zebra/issues/575
+- [x] Move test vectors to zebra-tests - https://github.com/ZcashFoundation/zebra/issues/575
+- [x] Add ZIP143 and ZIP243 test vectors - https://github.com/ZcashFoundation/zebra/issues/28
+- [ ] Validate coinbase transaction - https://github.com/ZcashFoundation/zebra/issues/298
 
