@@ -15,5 +15,8 @@ As this milestone is the first in the subject the estimations on specific issues
 - [x] Move large block contructions - https://github.com/ZcashFoundation/zebra/issues/575
 - [x] Move test vectors to zebra-tests - https://github.com/ZcashFoundation/zebra/issues/575
 - [x] Add ZIP143 and ZIP243 test vectors - https://github.com/ZcashFoundation/zebra/issues/28
-- [ ] Validate coinbase transaction - https://github.com/ZcashFoundation/zebra/issues/298
+- [x] Validate coinbase transaction - https://github.com/ZcashFoundation/zebra/issues/298
+- [x] Apply clippy warnings - https://github.com/ZcashFoundation/zebra/issues/598
+- [x] Verify block heaer solution - https://github.com/ZcashFoundation/zebra/issues/591
+- [ ] Fix spandocs in some tests - https://github.com/ZcashFoundation/zebra/issues/609
 
