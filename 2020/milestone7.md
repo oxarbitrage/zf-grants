@@ -18,5 +18,5 @@ As this milestone is the first in the subject the estimations on specific issues
 - [x] Validate coinbase transaction - https://github.com/ZcashFoundation/zebra/issues/298
 - [x] Apply clippy warnings - https://github.com/ZcashFoundation/zebra/issues/598
 - [x] Verify block header solution - https://github.com/ZcashFoundation/zebra/issues/591
-- [ ] Fix spandocs in some tests - https://github.com/ZcashFoundation/zebra/issues/609
-
+- [x] Test longer checkpoint gap - https://github.com/ZcashFoundation/zebra/issues/563
+- [x] Limit ptrotocol messages - https://github.com/ZcashFoundation/zebra/issues/624
