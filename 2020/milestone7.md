@@ -20,3 +20,5 @@ As this milestone is the first in the subject the estimations on specific issues
 - [x] Verify block header solution - https://github.com/ZcashFoundation/zebra/issues/591
 - [x] Test longer checkpoint gap - https://github.com/ZcashFoundation/zebra/issues/563
 - [x] Limit ptrotocol messages - https://github.com/ZcashFoundation/zebra/issues/624
+- [x] Review cargo doc fix - https://github.com/ZcashFoundation/zebra/pull/651
+- [ ] Refacor consensus checks - https://github.com/ZcashFoundation/zebra/issues/610
