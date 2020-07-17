@@ -21,4 +21,5 @@ As this milestone is the first in the subject the estimations on specific issues
 - [x] Test longer checkpoint gap - https://github.com/ZcashFoundation/zebra/issues/563
 - [x] Limit ptrotocol messages - https://github.com/ZcashFoundation/zebra/issues/624
 - [x] Review cargo doc fix - https://github.com/ZcashFoundation/zebra/pull/651
-- [ ] Refacor consensus checks - https://github.com/ZcashFoundation/zebra/issues/610
+- [ ] Refactor consensus tests - https://github.com/ZcashFoundation/zebra/issues/610
+- [x] Add favicon to docs - https://github.com/ZcashFoundation/zebra/issues/293
