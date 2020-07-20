@@ -23,3 +23,6 @@ As this milestone is the first in the subject the estimations on specific issues
 - [x] Review cargo doc fix - https://github.com/ZcashFoundation/zebra/pull/651
 - [ ] Refactor consensus tests - https://github.com/ZcashFoundation/zebra/issues/610
 - [x] Add favicon to docs - https://github.com/ZcashFoundation/zebra/issues/293
+- [ ] Command line tests - https://github.com/ZcashFoundation/zebra/issues/677
+- [ ] Port checkpoint generator from bash to rust - https://github.com/ZcashFoundation/zebra/issues/684
+- [ ] Add testnet tests and utility functions - https://github.com/ZcashFoundation/zebra/issues/683
