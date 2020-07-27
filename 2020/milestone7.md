@@ -26,3 +26,4 @@ As this milestone is the first in the subject the estimations on specific issues
 - [x] Command line tests - https://github.com/ZcashFoundation/zebra/issues/677
 - [x] Port checkpoint generator from bash to rust - https://github.com/ZcashFoundation/zebra/issues/684
 - [ ] Add testnet tests and utility functions - https://github.com/ZcashFoundation/zebra/issues/683
+- [x] Small reviews - https://github.com/ZcashFoundation/zebra/pull/764 , https://github.com/ZcashFoundation/zebra/pull/765 , https://github.com/ZcashFoundation/zebra/pull/766
