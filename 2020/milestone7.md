@@ -30,3 +30,4 @@ As this milestone is the first in the subject the estimations on specific issues
 - [x] Review zebra-checkpoints updates - https://github.com/ZcashFoundation/zebra/pull/772 , https://github.com/ZcashFoundation/zebra/pull/774
 - [x] Review separate mainnet and testnet states - https://github.com/ZcashFoundation/zebra/pull/773
 - [ ] Document zebrad env variables - https://github.com/ZcashFoundation/zebra/issues/729 , https://github.com/ZcashFoundation/zebra/issues/726 , https://github.com/ZcashFoundation/zebra/issues/652
+- [x] Add Zebra to Awesome Blockchain Rust - https://github.com/rust-in-blockchain/awesome-blockchain-rust/pull/5
