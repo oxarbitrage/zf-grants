@@ -21,11 +21,11 @@ As this milestone is the first in the subject the estimations on specific issues
 - [x] Test longer checkpoint gap - https://github.com/ZcashFoundation/zebra/issues/563
 - [x] Limit ptrotocol messages - https://github.com/ZcashFoundation/zebra/issues/624
 - [x] Review cargo doc fix - https://github.com/ZcashFoundation/zebra/pull/651
-- [ ] Refactor consensus tests - https://github.com/ZcashFoundation/zebra/issues/610
+- [ ] Refactor consensus tests - https://github.com/ZcashFoundation/zebra/issues/610 - In progress.
 - [x] Add favicon to docs - https://github.com/ZcashFoundation/zebra/issues/293
 - [x] Command line tests - https://github.com/ZcashFoundation/zebra/issues/677
 - [x] Port checkpoint generator from bash to rust - https://github.com/ZcashFoundation/zebra/issues/684
-- [ ] Add testnet tests and utility functions - https://github.com/ZcashFoundation/zebra/issues/683
+- [ ] Add testnet tests and utility functions - https://github.com/ZcashFoundation/zebra/issues/683 - Partially done.
 - [x] Small reviews - https://github.com/ZcashFoundation/zebra/pull/764 , https://github.com/ZcashFoundation/zebra/pull/765 , https://github.com/ZcashFoundation/zebra/pull/766
 - [x] Review zebra-checkpoints updates - https://github.com/ZcashFoundation/zebra/pull/772 , https://github.com/ZcashFoundation/zebra/pull/774
 - [x] Review separate mainnet and testnet states - https://github.com/ZcashFoundation/zebra/pull/773
