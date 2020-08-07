@@ -15,7 +15,11 @@ We are also repeating the mechanics of adding issues to the list as they are hap
 
 - [x] Change default path in zebrad tests - https://github.com/ZcashFoundation/zebra/issues/806 
 - [ ] Change default ports in zebrad tests - https://github.com/ZcashFoundation/zebra/issues/807
-- [ ] Check for panics in zebrad tests - https://github.com/ZcashFoundation/zebra/issues/804
+- [x] Check for panics in zebrad tests - https://github.com/ZcashFoundation/zebra/issues/804
+- [x] Review https://github.com/ZcashFoundation/zebra/pull/827
+- [x] Review canopy testnet protocol - https://github.com/ZcashFoundation/zebra/pull/810
+- [x] Chnage logs level - https://github.com/ZcashFoundation/zebra/pull/842
+- [x] Open bug and review fix - https://github.com/ZcashFoundation/zebra/issues/844 - https://github.com/ZcashFoundation/zebra/pull/848
 
 ### Zcashd
 
