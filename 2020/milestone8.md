@@ -18,8 +18,11 @@ We are also repeating the mechanics of adding issues to the list as they are hap
 - [x] Check for panics in zebrad tests - https://github.com/ZcashFoundation/zebra/issues/804
 - [x] Review https://github.com/ZcashFoundation/zebra/pull/827
 - [x] Review canopy testnet protocol - https://github.com/ZcashFoundation/zebra/pull/810
-- [x] Chnage logs level - https://github.com/ZcashFoundation/zebra/pull/842
+- [x] Change logs level - https://github.com/ZcashFoundation/zebra/pull/842
 - [x] Open bug and review fix - https://github.com/ZcashFoundation/zebra/issues/844 - https://github.com/ZcashFoundation/zebra/pull/848
+- [x] Add valid confi acceptance test - https://github.com/ZcashFoundation/zebra/issues/845
+- [x] Refactor consensus chain tests to use transcript - https://github.com/ZcashFoundation/zebra/pull/858
+- [ ] Test for valid output in non server commands - https://github.com/ZcashFoundation/zebra/issues/847
 
 ### Zcashd
 
