@@ -25,6 +25,8 @@ We are also repeating the mechanics of adding issues to the list as they are hap
 - [x] Test for valid output in non server commands - https://github.com/ZcashFoundation/zebra/issues/847
 - [x] Convert consensus chain tests to transcript - part of https://github.com/ZcashFoundation/zebra/issues/610
 - [x] Add byte metrics - https://github.com/ZcashFoundation/zebra/issues/753
+- [x] Create new test for possible port conflict - https://github.com/ZcashFoundation/zebra/issues/807#issuecomment-672439063
+- [x] Systemd service file - https://github.com/ZcashFoundation/zebra/issues/562
 
 ### Zcashd
 
