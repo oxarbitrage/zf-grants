@@ -27,6 +27,13 @@ We are also repeating the mechanics of adding issues to the list as they are hap
 - [x] Add byte metrics - https://github.com/ZcashFoundation/zebra/issues/753
 - [x] Create new test for possible port conflict - https://github.com/ZcashFoundation/zebra/issues/807#issuecomment-672439063
 - [x] Systemd service file - https://github.com/ZcashFoundation/zebra/issues/562
+- [x] Review https://github.com/ZcashFoundation/zebra/pull/933
+- [x] Review https://github.com/ZcashFoundation/zebra/pull/903
+- [x] Review https://github.com/ZcashFoundation/zebra/pull/935
+- [x] Review https://github.com/ZcashFoundation/zebra/pull/931
+- [x] Review https://github.com/ZcashFoundation/zebra/pull/939
+- [x] Review https://github.com/ZcashFoundation/zebra/pull/940
+- [x] Participated in Alianza Blockchain(Spanish) program talking about crypto privacy - https://www.youtube.com/watch?v=qrL4AeVyDvI (Thanks to @elenita for making the contact)
 
 ### Zcashd
 
