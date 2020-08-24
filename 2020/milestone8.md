@@ -34,7 +34,13 @@ We are also repeating the mechanics of adding issues to the list as they are hap
 - [x] Review https://github.com/ZcashFoundation/zebra/pull/939
 - [x] Review https://github.com/ZcashFoundation/zebra/pull/940
 - [x] Participated in Alianza Blockchain(Spanish) program talking about crypto privacy - https://www.youtube.com/watch?v=qrL4AeVyDvI (Thanks to @elenita for making the contact)
+- [x] Review https://github.com/ZcashFoundation/zebra/pull/941
+- [x] Set config path to acceptance tests - https://github.com/ZcashFoundation/zebra/issues/943
+- [x] add RUST_BACKTRACE to CI tests - https://github.com/ZcashFoundation/zebra/issues/945
 
 ### Zcashd
 
 - [ ] Make changes from code review to wallet state logging PR - https://github.com/zcash/zcash/pull/4423
+- [x] Rebase and apply fixes to add shielded balance to getwalletinfo - https://github.com/zcash/zcash/pull/4300
+- [x] Apply review suggestion to Tx expiry test - https://github.com/zcash/zcash/pull/4347
+- [x] Rebased and applied code review suggestions to Prevent creation of shielded transactions when chain is not synced up - https://github.com/zcash/zcash/pull/4349
