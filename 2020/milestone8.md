@@ -37,6 +37,8 @@ We are also repeating the mechanics of adding issues to the list as they are hap
 - [x] Review https://github.com/ZcashFoundation/zebra/pull/941
 - [x] Set config path to acceptance tests - https://github.com/ZcashFoundation/zebra/issues/943
 - [x] add RUST_BACKTRACE to CI tests - https://github.com/ZcashFoundation/zebra/issues/945
+- [ ] Support hostnames in listeners - https://github.com/ZcashFoundation/zebra/issues/948
+- [ ] Show stderr in child functions - https://github.com/ZcashFoundation/zebra/issues/944
 
 ### Zcashd
 
@@ -44,3 +46,5 @@ We are also repeating the mechanics of adding issues to the list as they are hap
 - [x] Rebase and apply fixes to add shielded balance to getwalletinfo - https://github.com/zcash/zcash/pull/4300
 - [x] Apply review suggestion to Tx expiry test - https://github.com/zcash/zcash/pull/4347
 - [x] Rebased and applied code review suggestions to Prevent creation of shielded transactions when chain is not synced up - https://github.com/zcash/zcash/pull/4349
+- [x] Rebase https://github.com/zcash/zcash/pull/4350
+- [ ] Rebase GetFilteredNotes refactor - https://github.com/zcash/zcash/pull/4399
