@@ -38,7 +38,7 @@ We are also repeating the mechanics of adding issues to the list as they are hap
 - [x] Set config path to acceptance tests - https://github.com/ZcashFoundation/zebra/issues/943
 - [x] add RUST_BACKTRACE to CI tests - https://github.com/ZcashFoundation/zebra/issues/945
 - [x] <strike>Support hostnames in listeners - https://github.com/ZcashFoundation/zebra/issues/948</strike> Issue scope reduced by design, rest moved to next milestone.
-- [ ] <strike>Show stderr in child functions - https://github.com/ZcashFoundation/zebra/issues/944</strike> Moved to the next milestone
+- [ ] <strike>Show stderr in child functions - https://github.com/ZcashFoundation/zebra/issues/944</strike> <strike>Moved to the next milestone</strike> Finally done as part of another PR(https://github.com/ZcashFoundation/zebra/pull/974https://github.com/ZcashFoundation/zebra/pull/974)
 
 ### Zcashd
 
