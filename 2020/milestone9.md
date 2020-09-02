@@ -18,7 +18,7 @@ In this milestone the main plan is to implement some zcash consensus rules into 
 
 ### Zebrad others
 
-- 
+- [x] remove option to read config from current directory - https://github.com/ZcashFoundation/zebra/issues/976
 
 ### Zcashd
 
