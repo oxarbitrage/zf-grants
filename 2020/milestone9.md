@@ -21,6 +21,7 @@ In this milestone the main plan is to implement some zcash consensus rules into 
 - [x] Remove option to read config from current directory - https://github.com/ZcashFoundation/zebra/issues/976
 - [x] Rename some old references - https://github.com/ZcashFoundation/zebra/issues/968
 - [x] Metrics and Tracing endpoint tests - https://github.com/ZcashFoundation/zebra/issues/995
+- [x] Implement `Add` and `Sub` operators for `Height` - https://github.com/ZcashFoundation/zebra/issues/1055
 
 ### Zcashd
 
