@@ -15,6 +15,7 @@ In this milestone the main plan is to implement some zcash consensus rules into 
 - [ ] Validate block subsidy - https://github.com/ZcashFoundation/zebra/issues/297
 - [ ] Coinbase rules ZIP-213 - https://github.com/ZcashFoundation/zebra/issues/608
 - [ ] Tracking - https://github.com/ZcashFoundation/zebra/issues/801
+- [x] Consensus error enums - https://github.com/ZcashFoundation/zebra/issues/1029
 
 ### Zebrad others
 
@@ -25,5 +26,4 @@ In this milestone the main plan is to implement some zcash consensus rules into 
 
 ### Zcashd
 
-- 
-
+- [x] Refine with more code review the GetFilteredNotes refactor - https://github.com/zcash/zcash/pull/4399 
