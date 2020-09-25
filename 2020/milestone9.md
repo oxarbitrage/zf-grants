@@ -23,6 +23,7 @@ In this milestone the main plan is to implement some zcash consensus rules into 
 - [x] Rename some old references - https://github.com/ZcashFoundation/zebra/issues/968
 - [x] Metrics and Tracing endpoint tests - https://github.com/ZcashFoundation/zebra/issues/995
 - [x] Implement `Add` and `Sub` operators for `Height` - https://github.com/ZcashFoundation/zebra/issues/1055
+- [x] Opened issue for block tests - https://github.com/ZcashFoundation/zebra/issues/1091 - Approved submitted PR - https://github.com/ZcashFoundation/zebra/pull/1096
 
 ### Zcashd
 
