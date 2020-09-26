@@ -27,4 +27,5 @@ In this milestone the main plan is to implement some zcash consensus rules into 
 
 ### Zcashd
 
-- [x] Refine with more code review the GetFilteredNotes refactor - https://github.com/zcash/zcash/pull/4399 
+- [x] Refine with more code review the GetFilteredNotes refactor - https://github.com/zcash/zcash/pull/4399
+- [x] Review add `treestate` field to `getblock` - https://github.com/zcash/zcash/pull/4744
