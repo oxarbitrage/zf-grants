@@ -11,10 +11,10 @@ In this milestone the main plan is to implement some zcash consensus rules into 
 
 ### Zebrad Consesus rules
 
-- [ ] Create functions for block subsidy and founders reward - https://github.com/ZcashFoundation/zebra/issues/338
-- [ ] Validate block subsidy - https://github.com/ZcashFoundation/zebra/issues/297
-- [ ] Coinbase rules ZIP-213 - https://github.com/ZcashFoundation/zebra/issues/608
-- [ ] Tracking - https://github.com/ZcashFoundation/zebra/issues/801
+- [x] Create functions for block subsidy and founders reward - https://github.com/ZcashFoundation/zebra/issues/338
+- [x] Validate block subsidy - https://github.com/ZcashFoundation/zebra/issues/297
+- [ ] <strike>Coinbase rules ZIP-213 - https://github.com/ZcashFoundation/zebra/issues/608</strike> - Moved to the next milestone.
+- [ ] <strike>Tracking - https://github.com/ZcashFoundation/zebra/issues/801</strike> - Moved to the next milestone.
 - [x] Consensus error enums - https://github.com/ZcashFoundation/zebra/issues/1029
 
 ### Zebrad others
@@ -24,6 +24,9 @@ In this milestone the main plan is to implement some zcash consensus rules into 
 - [x] Metrics and Tracing endpoint tests - https://github.com/ZcashFoundation/zebra/issues/995
 - [x] Implement `Add` and `Sub` operators for `Height` - https://github.com/ZcashFoundation/zebra/issues/1055
 - [x] Opened issue for block tests - https://github.com/ZcashFoundation/zebra/issues/1091 - Approved submitted PR - https://github.com/ZcashFoundation/zebra/pull/1096
+- [x] Review separation of block tests - https://github.com/ZcashFoundation/zebra/pull/1108
+- [x] Clippy lint approve - https://github.com/ZcashFoundation/zebra/pull/1106
+- [ ] Review operator implementations to ValueCommitment - https://github.com/ZcashFoundation/zebra/pull/1105
 
 ### Zcashd
 
