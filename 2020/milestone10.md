@@ -19,6 +19,13 @@ Items below will be added as we create issues for each of the validations we hav
 
 - [ ] Coinbase rules ZIP-213 - https://github.com/ZcashFoundation/zebra/issues/608
 - [ ] Tracking coinbase transactions validation - https://github.com/ZcashFoundation/zebra/issues/801
-- [ ] Write Block Subsidy RFC.
+- [x] Write Block Subsidy RFC.
 
 ### Zebrad others
+
+- [x] Move genesis parameters from `zebra-consensus` to `zebra-chain` - https://github.com/ZcashFoundation/zebra/issues/1134
+- [x] Review add testing section to RFC template - https://github.com/ZcashFoundation/zebra/pull/1145
+
+### Zcashd
+
+- [x] Simplify `TestBlockValidity` - https://github.com/zcash/zcash/issues/4769
