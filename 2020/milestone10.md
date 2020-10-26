@@ -25,6 +25,7 @@ Items below will be added as we create issues for each of the validations we hav
 
 - [x] Move genesis parameters from `zebra-consensus` to `zebra-chain` - https://github.com/ZcashFoundation/zebra/issues/1134
 - [x] Review add testing section to RFC template - https://github.com/ZcashFoundation/zebra/pull/1145
+- [x] Finish intitialiezed PR about reverse displayed endianness - https://github.com/ZcashFoundation/zebra/issues/1031
 
 ### Zcashd
 
