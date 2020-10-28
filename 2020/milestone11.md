@@ -7,20 +7,20 @@ To:             2020-11-30
 
 ## Planned work
 
-Major milestone focus, goals, comments.
+The goal of this milestone is to provide the most assistance possible on issues that are needed for the first alpha release of zebra(https://github.com/ZcashFoundation/zebra/issues?q=is%3Aopen+is%3Aissue+milestone%3A%22First+Alpha+Release%22).
 
-### Week 1
+There is going to be probably some more work that is still pending about block subsidy and others that could be already started but the main focus will remain in the Zebra Alpha milestone as it is the most needed at the moment. Issues as usual will be added as they are taken.
+
+### Zebrad Alpha milestone
+
+- [ ] Handle `AdvertiseBlock` in Inbound service - https://github.com/ZcashFoundation/zebra/issues/1082
+- [ ] Handle `FindHeaders` in the Inbound service - https://github.com/ZcashFoundation/zebra/issues/1079
+- [ ] Handle `FindBlocks` in the Inbound service - https://github.com/ZcashFoundation/zebra/issues/1078 
+
+### Zebrad others
 
 - 
 
-### Week 2
-
-- 
-
-### Week 3
-
-- 
-
-### Week 4
+### Zcashd
 
 - 
