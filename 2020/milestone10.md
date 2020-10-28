@@ -21,7 +21,7 @@ Items below will be added as we create issues for each of the validations we hav
 - [x] Tracking coinbase transactions validation - https://github.com/ZcashFoundation/zebra/issues/801 *
 - [x] Write Block Subsidy RFC. *
 
-* At the moment of closing this milestone the above 3 are partially done.
+`*` At the moment of closing this milestone the above 3 are partially done.
 
 ### Zebrad others
 
