@@ -1,4 +1,4 @@
-https://github.com/ZcashFoundation/zebra/issues/1226https://github.com/ZcashFoundation/zebra/issues/1226# Milestone 10
+# Milestone 10
 
 ```
 From:           2020-10-01
