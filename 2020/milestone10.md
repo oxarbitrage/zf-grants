@@ -1,4 +1,4 @@
-# Milestone 10
+https://github.com/ZcashFoundation/zebra/issues/1226https://github.com/ZcashFoundation/zebra/issues/1226# Milestone 10
 
 ```
 From:           2020-10-01
@@ -17,16 +17,21 @@ Items below will be added as we create issues for each of the validations we hav
 
 ### Zebrad Consesus rules
 
-- [ ] Coinbase rules ZIP-213 - https://github.com/ZcashFoundation/zebra/issues/608
-- [ ] Tracking coinbase transactions validation - https://github.com/ZcashFoundation/zebra/issues/801
-- [x] Write Block Subsidy RFC.
+- [x] Coinbase rules ZIP-213 - https://github.com/ZcashFoundation/zebra/issues/608 *
+- [x] Tracking coinbase transactions validation - https://github.com/ZcashFoundation/zebra/issues/801 *
+- [x] Write Block Subsidy RFC. *
+
+* At the moment of closing this milestone the above 3 are partially done.
 
 ### Zebrad others
 
 - [x] Move genesis parameters from `zebra-consensus` to `zebra-chain` - https://github.com/ZcashFoundation/zebra/issues/1134
 - [x] Review add testing section to RFC template - https://github.com/ZcashFoundation/zebra/pull/1145
 - [x] Finish intitialiezed PR about reverse displayed endianness - https://github.com/ZcashFoundation/zebra/issues/1031
+- [x] Replace canopy.pdf with protocol.pdf - https://github.com/ZcashFoundation/zebra/issues/1226
+- [x] Make sure all zebra tests call `zebra_test::init()` - https://github.com/ZcashFoundation/zebra/issues/1224
 
 ### Zcashd
 
 - [x] Simplify `TestBlockValidity` - https://github.com/zcash/zcash/issues/4769
+- <strike>[ ] Remove duplicates - https://github.com/zcash/zcash/issues/4798</strike> Researched but not done.
