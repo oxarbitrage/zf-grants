@@ -34,4 +34,4 @@ Items below will be added as we create issues for each of the validations we hav
 ### Zcashd
 
 - [x] Simplify `TestBlockValidity` - https://github.com/zcash/zcash/issues/4769
-- <strike>[ ] Remove duplicates - https://github.com/zcash/zcash/issues/4798</strike> Researched but not done.
+- [ ] <strike>Remove duplicates - https://github.com/zcash/zcash/issues/4798</strike> Researched but not done.
