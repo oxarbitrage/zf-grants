@@ -13,14 +13,14 @@ There is going to be probably some more work that is still pending about block s
 
 ### Zebrad Alpha milestone
 
-- [ ] Handle `AdvertiseBlock` in Inbound service - https://github.com/ZcashFoundation/zebra/issues/1082
-- [ ] Handle `FindHeaders` in the Inbound service - https://github.com/ZcashFoundation/zebra/issues/1079
-- [ ] Handle `FindBlocks` in the Inbound service - https://github.com/ZcashFoundation/zebra/issues/1078 
+- [x] Handle `AdvertiseBlock` in Inbound service - https://github.com/ZcashFoundation/zebra/issues/1082
+- [x] Handle `FindHeaders` in the Inbound service - https://github.com/ZcashFoundation/zebra/issues/1079
+- [x] Handle `FindBlocks` in the Inbound service - https://github.com/ZcashFoundation/zebra/issues/1078 
+- [x] State functions for `FindHeaders` and `FindBlocks` - https://github.com/ZcashFoundation/zebra/issues/1306
 
 ### Zebrad others
 
-- 
-
-### Zcashd
-
-- 
+- [x] Update RFC template - https://github.com/ZcashFoundation/zebra/pull/1278
+- [x] Review `memory_cache_bytes` in acceptance tests - https://github.com/ZcashFoundation/zebra/pull/1236
+- [x] Review remove post canopy panic - https://github.com/ZcashFoundation/zebra/pull/1371
+- [x] Approved typo fix - https://github.com/ZcashFoundation/zebra/pull/1394
