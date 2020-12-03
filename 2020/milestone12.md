@@ -17,10 +17,14 @@ Second goal, write a new proposal for 2021. As this one is ending but the experi
 
 - [x] Help testing the zebra sync up to tip, collect logs and information.
 - [x] Tested and approved https://github.com/ZcashFoundation/zebra/pull/1420 
+- [x] Test https://github.com/ZcashFoundation/zebra/pull/1420
+- [x] Found bug and test fix https://github.com/ZcashFoundation/zebra/pull/1439
 
 ### Zebra Others
 
 ### Zcashd
+
+- [x] Review add more version info to `getinfo` - https://github.com/zcash/zcash/pull/4889
 
 ### Others
 
