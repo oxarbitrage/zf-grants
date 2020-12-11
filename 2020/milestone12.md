@@ -22,6 +22,10 @@ Second goal, write a new proposal for 2021. As this one is ending but the experi
 
 ### Zebra Others
 
+- [x] Rename state methods - https://github.com/ZcashFoundation/zebra/issues/1446
+- [x] Create documents for utils and checkpoints - https://github.com/ZcashFoundation/zebra/issues/1482 - https://github.com/ZcashFoundation/zebra/issues/1483
+- [x] Move check - https://github.com/ZcashFoundation/zebra/issues/1463
+
 ### Zcashd
 
 - [x] Review add more version info to `getinfo` - https://github.com/zcash/zcash/pull/4889
