@@ -7,16 +7,6 @@ To:             2021-01-31
 
 ## Planned work
 
-Explain milestone main goals.
+In this milestone there is a period of 15 days of vacations. The goal is to work on priority issues of Zebra available after the 15th of January. It is hard to know the exact tasks beforehand as some pending issues might be resolved after then or new issues will be priority so the idea is to catch some of the most urgent ones at that time and work on them.
 
 ### Zebrad
-
-- [ ] Some issue to be worked on in zebrad this milestone.
-
-### Zcashd
-
-- [ ] Some issue to be worked on in zcashd over this milestone
-
-### Others
-
-- [ ] Some issue that don't belong to any of the above categories.
