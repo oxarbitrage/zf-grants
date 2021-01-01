@@ -30,6 +30,8 @@ Second goal, write a new proposal for 2021. As this one is ending but the experi
 ### Zcashd
 
 - [x] Review add more version info to `getinfo` - https://github.com/zcash/zcash/pull/4889
+- [x] Split wallet.py - https://github.com/zcash/zcash/issues/4917
+- [x] Hide password in `walletpassphrase` command - https://github.com/zcash/zcash/pull/4936
 
 ### Others
 
