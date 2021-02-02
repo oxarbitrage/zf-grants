@@ -7,16 +7,8 @@ To:             2021-02-28
 
 ## Planned work
 
-Explain milestone main goals.
+Work in assigned issues from Zebra sprints. 
 
-### Zebrad
+### Zebra Sprint 2
 
-- [ ] Some issue to be worked on in zebrad this milestone.
-
-### Zcashd
-
-- [ ] Some issue to be worked on in zcashd over this milestone
-
-### Others
-
-- [ ] Some issue that don't belong to any of the above categories.
+- [ ] 
