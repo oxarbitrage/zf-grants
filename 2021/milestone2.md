@@ -23,6 +23,7 @@ Work in assigned issues from Zebra sprints.
 - [x] Fix string literals warns in rust beta - https://github.com/ZcashFoundation/zebra/issues/1728
 - [x] Fix CI windows large tests build - https://github.com/ZcashFoundation/zebra/issues/1651
 - [x] Check network in different platforms in CI issues - https://github.com/ZcashFoundation/zebra/issues/1730
+- [x] Bring back docs and coverage CI - https://github.com/ZcashFoundation/zebra/issues/1689 - https://github.com/ZcashFoundation/zebra/issues/1690 
 
 #### Reviews:
 
